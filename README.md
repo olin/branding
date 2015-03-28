@@ -1,5 +1,13 @@
 ## colors
 
+### school colors
+
+* #009bdf
+* #a7a9ac
+* #000000
+
+### extended
+
 * red
   * #e31d3c
   * #750324
