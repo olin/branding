@@ -38,3 +38,25 @@
   * #511c74
 * pink
   * #ed037c
+
+## on-message communications
+
+* People-inspired engineering
+  * speaks to desirability
+* Real-world education
+  * speaks to feasibility
+* Culture of innovation
+  * speaks to continual innovation
+* Impact now (and beyond our walls)
+  * speaks to viability
+
+## fonts
+
+* FF DIN
+  * www.fontshop.com
+* BT Duch
+  * www.myfonts.com
+
+## contact
+
+* Olin Marcom Department email (contact an Oliner)
